@@ -1,5 +1,6 @@
 {
     "name": "Chapter 8 Lets Take a Spin",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "core": "*",
